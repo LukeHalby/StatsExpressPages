@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="300"
+   height="100"
+   viewBox="0 0 300 100"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1967">
+      <stop
+         id="stop1963"
+         offset="0"
+         style="stop-color:#ff4655;stop-opacity:0.58666664" />
+      <stop
+         id="stop1965"
+         offset="1"
+         style="stop-color:#ff4655;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1092">
+      <stop
+         style="stop-color:#ff4655;stop-opacity:0"
+         offset="0"
+         id="stop1088" />
+      <stop
+         style="stop-color:#ff4655;stop-opacity:0.58666664"
+         offset="1"
+         id="stop1090" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1092"
+       id="linearGradient1094"
+       x1="166.38609"
+       y1="99.810417"
+       x2="166.38609"
+       y2="-0.2068391"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.17041455,492.47169)" />
+    <linearGradient
+       gradientTransform="translate(-6.4053859,-3.698242)"
+       gradientUnits="userSpaceOnUse"
+       y2="99.966576"
+       x2="151.9458"
+       y1="-0.0060702935"
+       x1="151.9458"
+       id="linearGradient1969"
+       xlink:href="#linearGradient1967" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path848"
+     d="m 161.85242,15.678711 -1.7539,1.751953 v 2.337891 h -8.03321 v -2.191406 l -2.6289,-1.460938 -12.56055,1.023438 h -5.55078 V 19.18457 H 92.182505 l -3.94336,-2.484374 H 83.418833 L 82.10438,19.62207 h -9.347657 l -2.189453,3.796876 h -3.068359 v -0.960938 h -7.291016 c -2.961176,0 -1.299882,5.474609 0,5.474609 h 7.539063 c -1.717397,3.145479 -3.800069,9.294922 0.621094,9.294922 h 45.957028 l 5.0625,9.294922 h 1.13476 v 37.798828 h 10.53516 v -35.83789 l 7.43555,3.30664 h 12.59961 l 3.82226,-1.9375 c 2.51531,-1.274647 4.47816,4.799564 2.58203,6.609375 1.89823,-0.733241 2.56711,0.679339 3.40821,2.246094 l 5.26562,9.8125 c -0.86108,2.765217 -0.33558,3.957671 1.81445,3.097656 l 10.95508,-4.380859 c 1.36361,-0.545445 3.08785,-2.528683 1.60742,-4.820313 l -10.6621,-16.503906 c -1.92428,-2.978676 -1.95449,-8.179687 1.02148,-8.179687 h 16.94336 l 43.29297,11.599609 h 10.30859 V 26.047852 c -1.15518,-2.061999 -3.6667,-2.773438 -7.30273,-2.773438 h -54.625 l -6.00977,-3.470703 h -2.7539 v -1.933594 l -5.4043,-2.191406 z m 24.50977,14.421875 h 33.97851 l 11.61914,4.957031 v 10.896485 l -41.62109,-11.722656 -7.48828,-0.154297 z m -46.67383,10.480469 h 4.125 c 5.32753,0 4.26066,5.436681 2.59375,7.595703 1.85337,-1.199559 4.01201,-3.359265 2.11719,-7.558594 l 2.81054,0.109375 c 2.7749,1.483961 2.86399,7.531349 -1.31445,9.238281 l -11.31836,-0.03711 c -1.53308,-2.35122 -2.90764,-6.22442 0.98633,-9.347655 z"
+     style="fill:url(#linearGradient1969);fill-opacity:1;stroke:#ff4655;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

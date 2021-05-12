@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 300 100"
+   height="100"
+   width="300">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1038">
+      <stop
+         id="stop1034"
+         offset="0"
+         style="stop-color:#ff4655;stop-opacity:0" />
+      <stop
+         id="stop1036"
+         offset="1"
+         style="stop-color:#ff4655;stop-opacity:0.58666664" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-3.5233655,492.31885)"
+       gradientUnits="userSpaceOnUse"
+       y2="-0.15462045"
+       x2="162.51451"
+       y1="99.506439"
+       x1="162.51451"
+       id="linearGradient1040"
+       xlink:href="#linearGradient1038" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-491.16665)"
+     id="layer1">
+    <path
+       id="path1029"
+       d="m 102.25397,524.12354 v 1.25781 h -8.302726 c -2.140389,0 -1.987438,7.59766 0,7.59766 h 1.708985 l 3.841796,5.76367 47.314445,2.49023 2.0625,-1.49414 c 28.20853,0 13.24554,8.25973 28.17578,8.39649 6.10134,0.0559 4.51965,-4.89816 7.96876,-4.69727 3.45298,0.20112 8.647,5.92068 7.5625,11.75195 l 5.83789,2.91797 7.04296,-3.01953 c 2.95495,-1.26641 2.75679,-4.85559 -0.10156,-8.15039 -7.38723,-8.5152 -23.16208,-16.47223 -29.27929,-18.11133 l -8.75586,-3.52148 h -58.35938 v -1.18164 z m 71.56641,16.97851 c 4.40155,0.0343 4.40131,2.9312 4.07617,5.1836 0.80368,-1.15106 1.92583,-0.43932 1.83203,-4.52149 2.72598,3.02789 -0.0552,5.12521 -3.51757,5.09961 -8.17487,-0.0889 -8.14147,-5.80662 -2.39063,-5.76172 z"
+       style="fill:url(#linearGradient1040);fill-opacity:1;stroke:#ff4655;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
