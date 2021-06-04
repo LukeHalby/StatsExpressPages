@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/StatsExpressPages/static/js/main.0c81fb23.chunk.js",
-    "main.js.map": "/StatsExpressPages/static/js/main.0c81fb23.chunk.js.map",
+    "main.js": "/StatsExpressPages/static/js/main.936f24d4.chunk.js",
+    "main.js.map": "/StatsExpressPages/static/js/main.936f24d4.chunk.js.map",
     "runtime-main.js": "/StatsExpressPages/static/js/runtime-main.8db95e49.js",
     "runtime-main.js.map": "/StatsExpressPages/static/js/runtime-main.8db95e49.js.map",
-    "static/js/2.88e892c7.chunk.js": "/StatsExpressPages/static/js/2.88e892c7.chunk.js",
-    "static/js/2.88e892c7.chunk.js.map": "/StatsExpressPages/static/js/2.88e892c7.chunk.js.map",
+    "static/js/2.49c709c7.chunk.js": "/StatsExpressPages/static/js/2.49c709c7.chunk.js",
+    "static/js/2.49c709c7.chunk.js.map": "/StatsExpressPages/static/js/2.49c709c7.chunk.js.map",
     "static/css/3.7210cd4b.chunk.css": "/StatsExpressPages/static/css/3.7210cd4b.chunk.css",
     "static/js/3.deb77282.chunk.js": "/StatsExpressPages/static/js/3.deb77282.chunk.js",
     "static/js/3.deb77282.chunk.js.map": "/StatsExpressPages/static/js/3.deb77282.chunk.js.map",
@@ -13,11 +13,11 @@
     "static/js/4.ad088617.chunk.js": "/StatsExpressPages/static/js/4.ad088617.chunk.js",
     "static/js/4.ad088617.chunk.js.map": "/StatsExpressPages/static/js/4.ad088617.chunk.js.map",
     "index.html": "/StatsExpressPages/index.html",
-    "precache-manifest.2a49de6ce7018ce0f9a19f24fc84029d.js": "/StatsExpressPages/precache-manifest.2a49de6ce7018ce0f9a19f24fc84029d.js",
+    "precache-manifest.8c4c0279d2029fe2456cfba19ac5bfc4.js": "/StatsExpressPages/precache-manifest.8c4c0279d2029fe2456cfba19ac5bfc4.js",
     "service-worker.js": "/StatsExpressPages/service-worker.js",
     "static/css/3.7210cd4b.chunk.css.map": "/StatsExpressPages/static/css/3.7210cd4b.chunk.css.map",
     "static/css/4.4fd21cf9.chunk.css.map": "/StatsExpressPages/static/css/4.4fd21cf9.chunk.css.map",
-    "static/js/2.88e892c7.chunk.js.LICENSE.txt": "/StatsExpressPages/static/js/2.88e892c7.chunk.js.LICENSE.txt",
+    "static/js/2.49c709c7.chunk.js.LICENSE.txt": "/StatsExpressPages/static/js/2.49c709c7.chunk.js.LICENSE.txt",
     "static/media/Ares.svg": "/StatsExpressPages/static/media/Ares.670c2710.svg",
     "static/media/Ascent.svg": "/StatsExpressPages/static/media/Ascent.f74c1314.svg",
     "static/media/Bind.svg": "/StatsExpressPages/static/media/Bind.9df3e56a.svg",
@@ -68,7 +68,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8db95e49.js",
-    "static/js/2.88e892c7.chunk.js",
-    "static/js/main.0c81fb23.chunk.js"
+    "static/js/2.49c709c7.chunk.js",
+    "static/js/main.936f24d4.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c10c02e6ac2bcad20d7dda37ca8d26bf",
+    "revision": "35c6a9bfcd0bd4ddc85f9ef27cfd5efc",
     "url": "/StatsExpressPages/index.html"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StatsExpressPages/static/css/4.4fd21cf9.chunk.css"
   },
   {
-    "revision": "eb8353f81908442806b7",
-    "url": "/StatsExpressPages/static/js/2.88e892c7.chunk.js"
+    "revision": "edd9632ed48c26d134d9",
+    "url": "/StatsExpressPages/static/js/2.49c709c7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/StatsExpressPages/static/js/2.88e892c7.chunk.js.LICENSE.txt"
+    "url": "/StatsExpressPages/static/js/2.49c709c7.chunk.js.LICENSE.txt"
   },
   {
     "revision": "c9090bc72356c37462c6",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StatsExpressPages/static/js/4.ad088617.chunk.js"
   },
   {
-    "revision": "46974538d6436c395a66",
-    "url": "/StatsExpressPages/static/js/main.0c81fb23.chunk.js"
+    "revision": "fac00937f8111b520737",
+    "url": "/StatsExpressPages/static/js/main.936f24d4.chunk.js"
   },
   {
     "revision": "d138d77ed5f939e19808",
